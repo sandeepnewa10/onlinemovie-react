@@ -1,5 +1,7 @@
 Live
-https://sandeepnewa10.github.io/onlinemovie-react/
+
+https://onlinemovie-react.vercel.app/
+
 
 # Getting Started with Create React App
 
